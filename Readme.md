@@ -34,15 +34,9 @@ In today's digital world, fake news spreads rapidly and can cause serious misinf
 - ✅ SHAP Summary Plot
 
 
-Model comparison plot
-<p align="center">
-  <"C:\Users\RISHABH\OneDrive\Desktop\Fake-News-Prediction\Images\Model Comparison.png">
-</p>
-SHAP SUMMARY PLOT
-<p align="center">
-  <c:\Users\RISHABH\OneDrive\Desktop\Fake-News-Prediction\Images\most frequent words SHAP.png>
-</p>
 
+SHAP SUMMARY PLOT
+![image](https://github.com/user-attachments/assets/1a6724d6-31f5-4167-884f-d9c0a7e2bd79)
 
 ---
 
@@ -83,7 +77,7 @@ SHAP SUMMARY PLOT
 
 ## 🙋‍♂️ Author
 
-[Your Name](https://www.linkedin.com/in/your-profile)  
+[Rishabh Yadav]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/rishabh-yadav-7112a935b/))  
 Feel free to connect with me for collaborations, feedback, or just a chat about AI & NLP! 😊
 
 ---
